@@ -32,3 +32,17 @@ while True: #repeats the code
         print ("I recommend Everyone Wants to Rule the World by Tears For Fears")
         sleep(1)
         webbreowser.open('https://www.youtube.com/watch?v=aGCdLKXNF3w') #new link opens
+
+        #note this code doesnt run anything other that the first if statement
+        #What it looks like:
+        #This programme will give you song recommendations depending on your mood
+        # So what mood are you in?happy
+        #I would recommend Girls by the 1975 (opens in internet explorer)
+        #This programme will give you song recommendations depending on your mood
+        #So what mood are you in?
+        
+        #breaks when you type any other input
+        #So what mood are you in?upset
+        #I would recommend Girls by the 1975
+        #This programme will give you song recommendations depending on your mood
+        #So what mood are you in?
